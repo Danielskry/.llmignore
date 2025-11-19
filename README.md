@@ -1,5 +1,5 @@
 # .llmignore
-A vendor-neutral ignore specification that lets developers describe exactly what Large Language Model (LLM) tooling can read or modify inside a project. Declare secrets, read-only paths, and safe defaults in one file so editors, agents, and automations respect the same boundaries.
+A vendor-neutral ignore specification that lets developers describe exactly what Large Language Model (LLM) tooling can read or modify inside a project. Declare secrets, read-only paths, and safe defaults in one file so editors, agents, and automations respect the same boundaries. This spec builds on early .llmignore usage already appearing across tools and formalizes it into a simple, multi-level access policy.
 
 - **Version:** v0.1 (draft community specification)
 
